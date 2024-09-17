@@ -1,2 +1,0 @@
-# apt
-Akreditasi Perguruan Tinggi
